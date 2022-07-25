@@ -4,7 +4,8 @@ body {
 }
 img {
   display: block;
-  max-width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
 }
 a {
   padding: 20px;
